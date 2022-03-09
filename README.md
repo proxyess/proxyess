@@ -9,10 +9,6 @@
 
 ### I'm learning this things:
 
-
-<a href="https://github.com/" target="_blank"><img align="left" alt="github" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="github" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<a href="wikipedia.org/wiki/C%2B%2B" target="_blank"><img align="left" alt="github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 <a href="https://flutter.dev/" target="_blank"><img align="left" alt="github" width="26px" src="https://img.icons8.com/ios/500/flutter.png" />
 <a href="https://dart.dev/" target="_blank"><img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" />
 
