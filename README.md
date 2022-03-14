@@ -1,11 +1,6 @@
 
 ## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-(Use dark theme to find my socials)
 
-<a href="https://steamcommunity.com/id/proxyess" target="_blank"><img align="left" alt="steam" width="22px" src="https://toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png" /></a>
-<a href="https://www.instagram.com/proxyess/" target="_blank"><img align="left" alt="inst" width="22px" src="https://www.seekpng.com/png/full/2-26435_white-instagram-icon-png-instagram-logo-instagram-instagram.png" /></a>
-<br />
-<br/>
 
 ### I'm learning this things:
 
