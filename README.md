@@ -1,5 +1,6 @@
-<a href="#"><img width="100%"  height="auto" src="https://cdni.iconscout.com/illustration/premium/thumb/c-programmer-coding-on-computer-5405136-4525628.png" height="175px"/></a>
-
+<p align="center">
+<a href="#"><img width="50%"  height="auto" src="https://cdni.iconscout.com/illustration/premium/thumb/c-programmer-coding-on-computer-5405136-4525628.png" height="175px"/></a>
+</p>
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm David</h1>
 <h3 align="center">I'm a 19 y.o mobile developer and designer from Ukraine 🇺🇦</h3>
 
