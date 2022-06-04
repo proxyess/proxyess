@@ -4,7 +4,6 @@
 <h1 align="center">👨‍💻 Hi, I'm David</h1>
 <h3 align="center">I'm a 19 y.o mobile developer and designer from Ukraine 🇺🇦</h3>
 
-<br/>
 
 ## 🙋‍♂️ About Me
 
