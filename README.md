@@ -4,13 +4,11 @@
 <h1 align="center">👨‍💻 Hi, I'm David</h1>
 <h3 align="center">I'm a 19 y.o mobile developer and designer from Ukraine 🇺🇦</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - 🛠️ I'm learning Flutter, and I'm also trying my hand at mobile application design.
 
 - 🎮 In addition to code, I also play computer games
-
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
@@ -23,15 +21,11 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/> </a> 
 </p>
 
-
-
 ## 📊 My Github Statistic
 
-  <a href="https://github.com/proxyess/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=proxyess&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a href="https://github.com/proxyess/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxyess&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/proxyess/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=proxyess&show_icons=true&count_private=true&theme= github_dark &hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/proxyess/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxyess&langs_count=8&count_private=true&layout=compact&theme= github_dark &hide_border=true&bg_color=0D1117" /></a>
  <br/>
-
-<a href="https://github.com/proxyess/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=proxyess&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level :)
 <br/>
 <br/>
