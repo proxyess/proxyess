@@ -1,23 +1,37 @@
+<a href="#"><img width="100%"  height="auto" src="https://cdni.iconscout.com/illustration/premium/thumb/c-programmer-coding-on-computer-5405136-4525628.png" height="175px"/></a>
 
-## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm David</h1>
+<h3 align="center">I'm a 19 y.o mobile developer and designer from Ukraine 🇺🇦</h3>
 
 
-### I'm learning this things:
+## 🙋‍♂️ About Me
 
-<a href="https://flutter.dev/" target="_blank"><img align="left" alt="github" width="26px" src="https://img.icons8.com/ios/500/flutter.png" />
-<a href="https://dart.dev/" target="_blank"><img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" />
+- 🛠️ I'm learning Flutter, and I'm also trying my hand at mobile application design.
 
-<br />
-</br>
+- 🎮 In addition to code, I also play computer games
 
-### Softwares:
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-<a href="https://visualstudio.microsoft.com/ru/l" target="_blank"> <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" />
-<a href="https://unity.com/" target="_blank"> <img align="left" alt="Unity" width="26px" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />
-<a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank"> <img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
+## 🚀 Languages and Tools:
+<p align="left"> 
+    <a href="https://flutter.dev/" target="_blank"> <img width="4%" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img width="4%"src="https://img.icons8.com/color/480/dart.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img width="4%" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"/> </a> 
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/> </a> 
+    <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg/200px-Adobe-premiere-pro-cc-1430-vector-svg-.svg.png"/> </a> 
+    <a href="https://www.figma.com/" target="_blank"> <img width="4%" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/> </a> 
+</p>
 
-<br />
-<br />
+<br/>
 
----
+## 📊 My Github Statistic
+
+  <br/>
+    <a href="https://github.com/proxyess/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=proxyess&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/proxyess/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxyess&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+<a href="https://github.com/proxyess/github-readme-activity-graph"><img  src="https://activity-graph.herokuapp.com/graph?username=proxyess&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level :)
+<br/>
+<br/>
