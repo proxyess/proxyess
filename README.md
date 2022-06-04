@@ -27,7 +27,6 @@
 
 ## 📊 My Github Statistic
 
- <br/>
   <a href="https://github.com/proxyess/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=proxyess&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a href="https://github.com/proxyess/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxyess&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br/>
