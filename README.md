@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
 <p align="center">
 <a href="#"><img width="50%" height="auto" src="https://cdni.iconscout.com/illustration/premium/thumb/c-programmer-coding-on-computer-5405136-4525628.png" height="175px"/></a>
 </p>
