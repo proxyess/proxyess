@@ -1,9 +1,10 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
 <p align="center">
 <a href="#"><img width="50%" height="auto" src="https://cdni.iconscout.com/illustration/premium/thumb/c-programmer-coding-on-computer-5405136-4525628.png" height="175px"/></a>
-<h1>👨‍💻 Hello world! </h1>
-<h3>I'm a 19 y.o mobile developer and designer from Ukraine 🇺🇦</h3>
 </p>
+<h2 align="center">👨‍💻 Hello world! </h1>
+<h3 align="center">I'm a 19 y.o mobile developer and designer from Ukraine 🇺🇦</h3>
 
 ## 🙋‍♂️ About Me
 
